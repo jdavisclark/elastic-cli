@@ -1,0 +1,19 @@
+{
+  "name": "elastic-cli",
+  "version": "0.0.1",
+  "description": "elasticsearch cli + a lot of helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elastic",
+    "elasticsearch",
+    "cli"
+  ],
+  "bin": {
+  	"elastic" : "/dev/null"
+  },
+  "author": "Davis Clark",
+  "license": "ISC"
+}
